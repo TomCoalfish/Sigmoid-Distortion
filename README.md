@@ -20,3 +20,5 @@ The distortion of analog circuits
 * the same thing
 * some kind of sigmoid
 * same distortion in a neural network
+
+# You can generate endless varieties of it
