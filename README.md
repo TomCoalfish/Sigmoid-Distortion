@@ -16,10 +16,16 @@ The distortion of analog circuits
 * or hard clipping
 * your brain is a distortion pedal
 
-# You can waste time modelling a circuit
+# You can waste alot of time modelling a circuit
 * the same thing
 * some kind of sigmoid
 * same distortion in a neural network
+
+# Different Flavors that's it
+* symmetric
+* assmetric
+* polar
+* quadratic
 
 # You can generate endless varieties of it
 * use gnuplot
