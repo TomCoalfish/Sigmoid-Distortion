@@ -21,6 +21,10 @@ The distortion of analog circuits
 * some kind of sigmoid
 * same distortion in a neural network
 
+# The point of modellng circuit
+* so it is the same thing
+* if you don't care and just want some kind of distortion you can do anything you want with sigmoids
+
 # Different Flavors that's it
 * symmetric
 * assmetric
