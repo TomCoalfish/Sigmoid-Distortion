@@ -22,3 +22,9 @@ The distortion of analog circuits
 * same distortion in a neural network
 
 # You can generate endless varieties of it
+* use gnuplot
+* Plot your function
+* Tweak it so it fits in [-1,1]
+* Use it as distortion
+
+
